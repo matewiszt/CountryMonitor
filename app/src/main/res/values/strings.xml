@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountryMonitor</string>
+    <string name="no_connection_string">No internet connection.</string>
+    <string name="no_result_string">No news found.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Country Settings</string>
+    <string name="settings_country_label">Country to monitor</string>
+    <string name="settings_country_key" translatable="false">country</string>
+    <string name="settings_country_default" translatable="false">Italy</string>
+</resources>
